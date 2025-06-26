@@ -18,10 +18,6 @@ Team TenaCity is a serious game crafted to enhance team relationships and resili
 
 > **Get Creative!** We encourage teams to create their own gameplay variants using the components provided (including the dice). Share your innovative gameplay ideas with ILOD at [ilod@cscollege.gov.sg](mailto:ilod@cscollege.gov.sg) and we might feature them on this page!
 
-## Default Game Mode
-
-[Previous content about game overview, objective, setup etc.]
-
 ## Alternative Game Modes
 
 ### Conversation Mode (30-45 minutes)
@@ -55,7 +51,7 @@ Key Changes:
 - Focuses on strategic gameplay
 - Maintains crisis card effects
 
-## Gameplay Videos
+## Gameplay Videos [Coming Soon]
 
 For detailed demonstrations of each game mode, check out our tutorial videos:
 - [Default Mode Tutorial](https://go.gov.sg/tenacity-default)
