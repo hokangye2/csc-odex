@@ -18,7 +18,7 @@ sections:
           description: New to OD? Find out more
           url: https://odex.csc.gov.sg/newbie-corner/
         - title: ODEx AI
-          description: Your virtual OD consultant
+          description: Your Virtual OD Consultant
           url: https://aibots.gov.sg/chats/odexai
       background: /images/banner.jpg
   - infobar:
