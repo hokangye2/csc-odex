@@ -17,6 +17,9 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: https://odex.csc.gov.sg/newbie-corner/
+         - title: ODEx AI
+              description: A self-help platform with OD resources
+              url: https://aibots.gov.sg/chats/odex-ai-20
       background: /images/banner.jpg
   - infobar:
       title: What is ODEx Resource Portal?
