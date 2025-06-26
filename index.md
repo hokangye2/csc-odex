@@ -17,9 +17,6 @@ sections:
         - title: Newbies Corner
           description: New to OD? Find out more
           url: https://odex.csc.gov.sg/newbie-corner/
-        - title: ODEx AI
-          description: Your Virtual OD Consultant
-          url: https://aibots.gov.sg/chats/odexai
       background: /images/banner.jpg
   - infobar:
       title: What is ODEx Resource Portal?
